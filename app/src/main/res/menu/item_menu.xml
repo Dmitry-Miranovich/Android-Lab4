@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/all_item"
+        android:title="All"
+        android:icon="@drawable/ic_android_black_24dp"/>
+    <item android:id="@+id/unread_item"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="Unread"/>
+    <item android:id="@+id/read_item"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="Read"/>
+
+</menu>
